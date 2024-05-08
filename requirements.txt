@@ -1,0 +1,5 @@
+asgiref
+Django
+pathlib
+sqlparse
+typing_extensions
